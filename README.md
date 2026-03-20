@@ -34,7 +34,7 @@ Regras do Jogo
 4. Para executar o projeto compilando em tempo real
 
    ```
-   dotnet run --project JogoDosDados.ConsoleApp
+   dotnet run JOGODEDADOS.csproj
    ```
 
 ## Requisitos
