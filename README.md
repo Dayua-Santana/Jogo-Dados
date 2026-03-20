@@ -1,6 +1,6 @@
 # Jogo Dos Dados
 
-![](./.docs/HLBi0dp.gif)
+![alt text](JOGODEDADOS_hT2QdUzz6v.gif)
 
 ## Introdução
 
