@@ -1,0 +1,15 @@
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\bin\Debug\net10.0\JOGODEDADOS.exe
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\bin\Debug\net10.0\JOGODEDADOS.deps.json
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\bin\Debug\net10.0\JOGODEDADOS.runtimeconfig.json
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\bin\Debug\net10.0\JOGODEDADOS.dll
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\bin\Debug\net10.0\JOGODEDADOS.pdb
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.AssemblyInfoInputs.cache
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.AssemblyInfo.cs
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.csproj.CoreCompileInputs.cache
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.sourcelink.json
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.dll
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\refint\JOGODEDADOS.dll
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.pdb
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\JOGODEDADOS.genruntimeconfig.cache
+C:\Users\yuajs\Desktop\Jogo Dados\JOGODEDADOS\obj\Debug\net10.0\ref\JOGODEDADOS.dll
